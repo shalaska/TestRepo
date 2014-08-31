@@ -10,6 +10,7 @@ namespace TestingGit4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Here is something that will do something");
         }
     }
 }
